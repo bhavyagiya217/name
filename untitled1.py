@@ -7,5 +7,5 @@ Original file is located at
     https://colab.research.google.com/drive/18uObvbUhNDyk6QUSmGUsUXJUV95Mt-v4
 """
 
-n-7
+n=7
 print(n*n)
